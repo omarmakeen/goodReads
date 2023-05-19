@@ -1,0 +1,1 @@
+export const BACKEND_STAGE_URL = 'https://reactnd-books-api.udacity.com';
